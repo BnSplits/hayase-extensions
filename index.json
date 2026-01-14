@@ -7,12 +7,10 @@
     "accuracy": "high",
     "ratio": 0,
     "media": "sub",
-    "languages": [
-      "US"
-    ],
+    "languages": ["US"],
     "icon": "https://releases.moe/favicon.png",
-    "update": "gh:abhinavbedi/extensions",
-    "code": "gh:abhinavbedi/extensions/seadex"
+    "update": "gh:BnSplits/hayase-extensions",
+    "code": "gh:BnSplits/hayase-extensions/seadex"
   },
   {
     "name": "AnimeTosho",
@@ -22,12 +20,10 @@
     "accuracy": "high",
     "ratio": 0,
     "media": "sub",
-    "languages": [
-      "US"
-    ],
+    "languages": ["US"],
     "icon": "https://animetosho.org/inc/favicon.ico",
-    "update": "gh:abhinavbedi/extensions",
-    "code": "gh:abhinavbedi/extensions/animetosho"
+    "update": "gh:BnSplits/hayase-extensions",
+    "code": "gh:BnSplits/hayase-extensions/animetosho"
   },
   {
     "name": "AnimeTosho NZB",
@@ -37,12 +33,10 @@
     "accuracy": "high",
     "ratio": 0,
     "media": "sub",
-    "languages": [
-      "US"
-    ],
+    "languages": ["US"],
     "icon": "https://animetosho.org/inc/favicon.ico",
-    "update": "gh:abhinavbedi/extensions",
-    "code": "gh:abhinavbedi/extensions/animetosho-nzb"
+    "update": "gh:BnSplits/hayase-extensions",
+    "code": "gh:BnSplits/hayase-extensions/animetosho-nzb"
   },
   {
     "name": "NyaaSi",
@@ -52,27 +46,22 @@
     "accuracy": "low",
     "ratio": 0,
     "media": "sub",
-    "languages": [
-      "US"
-    ],
+    "languages": ["US"],
     "icon": "https://nyaa.si/static/favicon.png",
-    "update": "gh:abhinavbedi/extensions",
-    "code": "gh:abhinavbedi/extensions/nyaasi"
+    "update": "gh:BnSplits/hayase-extensions",
+    "code": "gh:BnSplits/hayase-extensions/nyaasi"
   },
   {
-  "id": "PirateBay",
-  "name": "piratebay",
-  "version": "0.0.11",
-  "type": "torrent",
-  "accuracy": "low",
-  "media": "both",
-  "languages": [
-    "US"
-  ],
-  "description": "Fetches torrents from The Pirate Bay via Torrents-API",
-  "icon": "https://upload.wikimedia.org/wikipedia/en/3/36/The_Pirate_Bay_logo.svg",
-  "update": "gh:abhinavbedi/extensions",
-  "code": "gh:abhinavbedi/extensions/piratebay"
-}
-
+    "id": "PirateBay",
+    "name": "piratebay",
+    "version": "0.0.11",
+    "type": "torrent",
+    "accuracy": "low",
+    "media": "both",
+    "languages": ["US"],
+    "description": "Fetches torrents from The Pirate Bay via Torrents-API",
+    "icon": "https://upload.wikimedia.org/wikipedia/en/3/36/The_Pirate_Bay_logo.svg",
+    "update": "gh:BnSplits/hayase-extensions",
+    "code": "gh:BnSplits/hayase-extensions/piratebay"
+  }
 ]
